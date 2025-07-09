@@ -1,6 +1,6 @@
 import jsImg from "../assets/js.jpg"
 import python from "../assets/python.avif"
-import reactImg from "../assets/img.jpg"
+import nodeImg from "../assets/nodeImg.jpg"
 import cssImg from "../assets/css.jpg"
 
 
@@ -44,7 +44,7 @@ import cssImg from "../assets/css.jpg"
   },
   {
     id: "nodejs-masterclass",
-    image: reactImg,
+    image: nodeImg,
     title: "Node.js Masterclass",
     subtitle: "Build scalable backends with Node and Express...",
     rating: 4.6,
@@ -68,7 +68,7 @@ import cssImg from "../assets/css.jpg"
   },
   {
     id: "fullstack-web-dev",
-    image: jsImg,
+    image: cssImg,
     title: "Fullstack Web Developer Bootcamp",
     subtitle: "Learn HTML, CSS, JavaScript, React, Node & MongoDB",
     rating: 4.7,
