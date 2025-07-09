@@ -26,7 +26,7 @@ export const Contact = () => {
         <div className="contact-info-section">
           <h2>📞 Contact Information</h2>
           <p><strong>Email:</strong> support@skillveda.in</p>
-          <p><strong>Phone:</strong> +91 98765 43210</p>
+          <p><strong>Phone:</strong> +91 98******10</p>
           <p><strong>Address:</strong> SkillVeda HQ, Ahmedabad, Gujarat, India</p>
         </div>
       </section>
