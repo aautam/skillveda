@@ -17,8 +17,8 @@ const handleCourses = () => {
     navigate("/courses")}
 
   return (
-    <>
-
+    <div className="main-1">
+<div className="main">
     
 
           <BigCard
@@ -54,6 +54,7 @@ const handleCourses = () => {
        </div>
  <div className="bigcard-container">
         </div>
-    </>
+        </div>
+    </div>
   );
 };

@@ -1,3 +1,9 @@
+.main-1{
+display: flex;
+}
+.main{
+    flex: 1;
+}
 .bigcard-container{
     margin-bottom: 80px;
    
