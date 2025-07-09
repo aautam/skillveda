@@ -1,0 +1,60 @@
+.btn {
+  padding: 12px 24px;
+  border: none;
+  border-radius: 100px;
+  font-size: 1.05rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn.primary {
+  background-color: #000000;
+  color: white;
+   font-size: 1.15rem;
+
+}
+
+.btn.primary:hover {
+  background-color: #3f3b3b;
+}
+
+.btn.secondary {
+  background-color: #585d61;
+  color: white;
+}
+
+.btn.secondary:hover {
+  background-color: #000000;
+}
+
+.btn.outline {
+  background-color: transparent;
+  border: 2px solid #000000;
+  color: #000000;
+}
+
+.btn.outline:hover {
+  background-color: #000000;
+  color: white;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.btn:disabled {
+  background-color: #000000;
+  cursor: not-allowed;
+}
+
+
+
+
+
+
+
+.btn-outline.active {
+  background-color: black;
+  color: white;
+  border-color: black;
+}
